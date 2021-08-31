@@ -12,7 +12,7 @@ int ArrayToInteger(char string[]) {
 
 void main() {
 	int first_num, second_num;
-	char first_string[16], second_string[16];
+	char first_string[15], second_string[15];
 
 	printf("input first number: ");
 	gets(first_string);
